@@ -30,7 +30,7 @@
 <br>
 
 <p align = "left">
-  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/57a04805-2569-4b97-8fa1-5ee9f1891c60"/>
+  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/7515effb-38e0-4032-a9c8-b0ac6c376b48"/>
   <br>
   기억의 조각은 어떠한 사건에 중심이 되는
   물체의 일정 개수를 모으는 시스템 입니다. <br>
