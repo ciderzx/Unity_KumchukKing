@@ -21,6 +21,7 @@
 <p align = "left">
   <img width="100%" height="100%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/08188284-14ad-411e-a2cc-3c324087a44d"/>
   <br>
+  <br>
   불길한 기운은 플레이어를 따라오는 오브젝트 
   입니다. 해당 오브젝트는 시간이 지날 수록 <br>
   점점 빨라지며 플레이어가 성실히 여자친구를
@@ -28,9 +29,11 @@
 </p>
 
 <br>
+<br>
 
 <p align = "left">
   <img width="100%" height="100%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/7515effb-38e0-4032-a9c8-b0ac6c376b48"/>
+  <br>
   <br>
   기억의 조각은 어떠한 사건에 중심이 되는
   물체의 일정 개수를 모으는 시스템 입니다. <br>
@@ -38,6 +41,7 @@
   플레이어가 다 모아야 클리어가 가능합니다.
 </p>
 
+<br>
 <br>
 
 ---
