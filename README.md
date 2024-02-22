@@ -38,10 +38,7 @@
   <br>
 </p>
 
-+ Start Scene :
-+ Lobby Scene :
-+ Play Scene :
-+ Exit Scene : 
++  
 
 <br>
 
