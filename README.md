@@ -40,17 +40,6 @@
 
 <br>
 
-<p align = "left">
-  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/3b64a667-e482-4b97-99f3-7eacbae1a9f6"/>
-  <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
-</p>
-
-<br>
-
 ---
 
 <h2 align="left"> Project Summary </h2>
