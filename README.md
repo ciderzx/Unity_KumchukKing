@@ -19,7 +19,7 @@
 <br>
 
 <p align = "left">
-  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/08188284-14ad-411e-a2cc-3c324087a44d"/>
+  <img width="100%" height="100%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/08188284-14ad-411e-a2cc-3c324087a44d"/>
   <br>
   불길한 기운은 플레이어를 따라오는 오브젝트 
   입니다. 해당 오브젝트는 시간이 지날 수록 <br>
