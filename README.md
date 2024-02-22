@@ -24,10 +24,10 @@
   <br>
 </p>
 
-+ Start Scene :
-+ Lobby Scene :
-+ Play Scene :
-+ Exit Scene : 
++ Start Scene : 게임을 시작할 때 거치는 Scene / Scene 이동과 종료를 담당
++ Lobby Scene : 게임을 시작 하기 전 최고기록을 보여주고 시작 대기하는 Scene / 시작 전 대기를 담당
++ Play Scene : 게임을 진행하는 Scene / 플레이어가 움직이고 게임진행을 담당
++ Exit Scene : 게임을 종료하는 Scene / 해당 게임의 Score를 보여주는 담당
 
 <br>
 <br>
