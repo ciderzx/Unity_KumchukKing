@@ -56,7 +56,7 @@
 <h2 align="left"> Project Summary </h2>
 
 <p align = "center">
-  <img width="70%" height="70%" align = "center" src="https://github.com/ciderzx/Unity_TheLoves/assets/66687236/d27f6f80-3ff4-400f-adbd-eddf85cd33b9"/>
+  <img width="70%" height="70%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/83b0cb33-0d95-4a3d-bbd5-6757c38ef6e8"/>
 </p>
 
 기여도
